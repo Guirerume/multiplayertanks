@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerTanks.CSharp.Plugins", "MultiplayerTanks.CSharp.Plugins.csproj", "{122A94A0-FEC9-8891-2A95-5A5ECA5D9785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerTanks.CSharp", "MultiplayerTanks.CSharp.csproj", "{28BDCACF-0E1A-015C-EBCF-B9535854A204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerTanks.CSharp.Editor", "MultiplayerTanks.CSharp.Editor.csproj", "{D017D39D-A367-E443-034F-1BBE0002432A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122A94A0-FEC9-8891-2A95-5A5ECA5D9785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122A94A0-FEC9-8891-2A95-5A5ECA5D9785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122A94A0-FEC9-8891-2A95-5A5ECA5D9785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122A94A0-FEC9-8891-2A95-5A5ECA5D9785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BDCACF-0E1A-015C-EBCF-B9535854A204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BDCACF-0E1A-015C-EBCF-B9535854A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BDCACF-0E1A-015C-EBCF-B9535854A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BDCACF-0E1A-015C-EBCF-B9535854A204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D017D39D-A367-E443-034F-1BBE0002432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D017D39D-A367-E443-034F-1BBE0002432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D017D39D-A367-E443-034F-1BBE0002432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D017D39D-A367-E443-034F-1BBE0002432A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
