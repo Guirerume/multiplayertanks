@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D017D39D-A367-E443-034F-1BBE0002432A}</ProjectGuid>
+    <ProjectGuid>{0A4FAC83-55E2-1977-56FE-C626D5313FEB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -105,13 +105,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="MultiplayerTanks.CSharp.Plugins.csproj">
-      <Project>{122A94A0-FEC9-8891-2A95-5A5ECA5D9785}</Project>
-      <Name>MultiplayerTanks.CSharp.Plugins</Name>
+    <ProjectReference Include="multiplayertanks.CSharp.Plugins.csproj">
+      <Project>{56FFCE84-534C-1535-2A30-EEBA90560F80}</Project>
+      <Name>multiplayertanks.CSharp.Plugins</Name>
     </ProjectReference>
-    <ProjectReference Include="MultiplayerTanks.CSharp.csproj">
-      <Project>{28BDCACF-0E1A-015C-EBCF-B9535854A204}</Project>
-      <Name>MultiplayerTanks.CSharp</Name>
+    <ProjectReference Include="multiplayertanks.CSharp.csproj">
+      <Project>{1CFCA60F-06EE-3652-958F-37C0C9C1B789}</Project>
+      <Name>multiplayertanks.CSharp</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
